@@ -42,7 +42,9 @@
     "jwtSecretKey": "NjJhNTBmZWUzZjBmNmFmZjViNGIwZWFhYzgzOTUyMDQ0NDVlZmU1OGNmYmM2OThlZTUxYTdhNDE1ZWQ4OWY1MmMzODE5NTAwZmViNDg2ZTk2YTQwOTk5YmQyNTQwMzBmZjFmMDA2N2FkN2RhNTdjNWYxOTU2NWYwZjg3NTAyMWQ=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Attribute", "BusinessObject", "Source", "DataService", "DataRole", "RoleManagement", "SourcePriority", "OrderedSource"],
+    "lastLiquibaseTimestamp": 1621420823000
   },
   "git-provider": "GitHub",
   "git-company": "klabim",
